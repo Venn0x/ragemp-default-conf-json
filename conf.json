@@ -1,0 +1,10 @@
+{
+	"maxplayers" : 50,
+	"name" : "RAGE:MP Unofficial server [V-Cloud]", 
+  "url": "http://cloud.v-rage.me",
+	"gamemode" : "freeroam", 
+	"stream-distance" : 500.0,
+	"announce" : true,
+	"csharp" : "disabled",
+	"port": 22005,
+}
